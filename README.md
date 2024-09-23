@@ -1,2 +1,2 @@
 # alfred-jst-test
-Making my sample test using mocha-chai
+Sample test using mocha-chai
